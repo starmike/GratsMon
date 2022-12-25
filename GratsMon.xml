@@ -1,0 +1,14 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Script file="GratsMon.lua"></Script>
+    <Frame name="GratsMon">
+        <Scripts>
+            <OnLoad>
+                GratsMon_OnLoad(self);
+            </OnLoad>
+            <OnUpdate></OnUpdate>
+            <OnEvent>
+                GratsMon_OnEvent(self, event, ...);
+            </OnEvent>
+        </Scripts>
+    </Frame>
+</Ui>

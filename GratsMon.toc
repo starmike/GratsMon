@@ -1,0 +1,12 @@
+## Interface: 100002
+## Title: GratsMon
+## Notes: Hey, Grats, Mon!
+## Author: Michael Gaines
+## Version: 1.0
+## DefaultState: Enabled
+## LoadOnDemand: 0
+## OptionalDeps: _DebugLog
+## X-Category: UI
+
+GratsMon.xml
+GratsMon.lua
