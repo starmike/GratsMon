@@ -9,4 +9,5 @@ The addon simply congratulates someone for dingning while in a dungeon. Groups m
 
 ## Console commands
 /gratsmon on
+
 /gratsmon off
